@@ -1,0 +1,37 @@
+:root{
+  --green: #00FF00;;
+}
+
+*{
+  font-family: 'Space Mono', monospace;
+}
+
+.blackcard{
+  background-color: black;
+  color: aliceblue;
+}
+
+.clearbutton{
+  background-color: black;
+  color: aliceblue;
+}
+
+.green{
+  color: var(--green);
+}
+
+.centerborder{
+  border-top: 2px solid #00FF00;
+}
+
+.cardborder{
+  border: 2px solid aliceblue;
+}
+
+.greentext{
+  color: var(--green);
+}
+
+.fedbackground{
+  background-image: url(fedex.jpeg);
+}
