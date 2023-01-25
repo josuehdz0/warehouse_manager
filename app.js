@@ -55,7 +55,7 @@ function drawPackages(packageList){
 
   <div class="row cardborder justify-content-between mb-4 ms-4 me-4">
         <div class="col-1 d-flex justify-content-center pt-2 pb-2 greentext">TO:</div>
-        <div class="col-5 d-flex justify-content-end pt-2 pb-2">${package.to}</div>
+        <div class="col-6 d-flex justify-content-end pt-2 pb-2">${package.to}</div>
         <div class="col-1 d-flex justify-content-center pt-2 pb-2 greentext">ID:</div>
         <div class="col-3 d-flex justify-content-end pt-2 pb-2">${package.trackingNumber}</div>
       </div>
